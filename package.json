@@ -1,0 +1,22 @@
+{
+  "name": "mdmassignment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alviranarshidani/MDMAssignment1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alviranarshidani/MDMAssignment1/issues"
+  },
+  "homepage": "https://github.com/alviranarshidani/MDMAssignment1#readme",
+  "devDependencies": {
+    "sqlite3": "^4.0.8"
+  }
+}
